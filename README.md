@@ -26,7 +26,7 @@ solana config set --url devnet
 ```
 solana airdrop 1 
 ```
-  * You can check your balance by using the following command.
+* You can check your balance by using the following command.
 ```
 solana balance
 ```
